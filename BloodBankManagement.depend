@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1636773634 source:d:\sem-3\ads\adspackage\bloodbankmanagement\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<iomanip>
+	<stdlib.h>
+	<bits/stdc++.h>
+
